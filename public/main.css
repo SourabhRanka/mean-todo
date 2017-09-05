@@ -1,0 +1,6 @@
+.tick {
+    text-decoration: line-through;
+}
+#list li {
+    list-style-type: none;
+}

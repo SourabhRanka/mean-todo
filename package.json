@@ -1,0 +1,16 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "todo using mean framework",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourabh Ranka",
+  "license": "ISC"
+}
